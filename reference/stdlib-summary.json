@@ -1,0 +1,19 @@
+{
+  "point_count": 16,
+  "finest_fd_w_all_pass": true,
+  "finest_fd_dw_all_pass": true,
+  "finest_fd_J_all_pass": true,
+  "max_quadrature_refinement_change": 1.97758476261356e-16,
+  "spline_w_failures": 6,
+  "spline_dw_consistency_failures": 9,
+  "spline_J_derivative_failures": 12,
+  "max_spline_w_abs_error": 0.00012504275219815675,
+  "limits": {
+    "I_at_zero": 0.1438012331236927,
+    "positive_q_global_bound_at_grid_matter": 0.6197791080368404,
+    "q_0435_J_at_zero": -1.2102020361292913,
+    "example_q_1_early_D_using_example_matter_and_zero_photons_upper_bound": -1.380878724112986,
+    "note": "Last D is an upper bound because positive photons lower it further. No CLASS run."
+  },
+  "elapsed_seconds": 0.021305166883394122
+}
