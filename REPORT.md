@@ -1,6 +1,6 @@
 # Observational implications of Wald-Gauss-Bonnet topological dark energy
 
-[2501.15927v3](https://arxiv.org/abs/2501.15927v3) · Review 0.1.0-rc1
+[2501.15927v3](https://arxiv.org/abs/2501.15927v3) · Review 0.1.0-rc2
 
 **Confirmed finding.** The author confirmed the denominator coefficient error in Eq. (19) and its public CLASS implementation.
 
@@ -26,7 +26,7 @@ Not checked: Confirmation covers this local coefficient error; effects on cosmol
 
 Prepared with AI assistance. Historical Claude first pass and Codex independent review/critique remain distinct; this assembly reads saved evidence and is neither blind B nor new P2. No scientific code was run in this assembly. The later informed correction audit disclosed prewritten but uncommitted convention/grid amendments before its diagnostic run; this G2 deviation remains historical. Author confirmation is limited to the named coefficient error.
 
-Tools: Claude (historical A); Codex (historical B/C and current informed assembly). Human involvement: Owner selected preparation scope; no publication decision is recorded for this batch..
+Tools: Claude (historical A); Codex (historical B/C and current informed assembly). Human involvement: Owner selected the preparation scope and approved the predecessor release published on 10 November 2026; the owner approved publication of this editorial revision on 11 November 2026.
 
 ## Replay
 
